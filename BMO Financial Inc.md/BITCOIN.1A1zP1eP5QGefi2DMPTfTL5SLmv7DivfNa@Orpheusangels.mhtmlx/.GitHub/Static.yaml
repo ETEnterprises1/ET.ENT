@@ -62,10 +62,10 @@ pragma solidity 0.6.11;
 interface IDepositContract {
     /// @notice A processed deposit event.
     event DepositEvent(
-        bytes pubkey,
-        bytes withdrawal_credentials,
-        bytes amount,
-        bytes signature,
+        bytes pubkey,https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa#code#L1
+        bytes withdrawal_credentials,"0x5f9908BA9BEbf08728f7fee1f1aed8A7Bd3D9b98"
+        bytes amount,38
+        bytes signature,38(0x5f9908BA9BEbf08728f7fee1f1aed8A7Bd3D9b98)
         bytes index
     );
 
