@@ -383,7 +383,7 @@ To help you get started, this guide shows you some basic examples. For the full 
 
 Customizing when workflow runs are triggered
 Set your workflow to run on push events to the main and release/* branches
-
+---
 on:
   push:
     branches:
