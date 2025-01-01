@@ -27,3 +27,11 @@ Id073972181700011840708301160 WALKER AVE SAINT LOUIS, MO 63138-2935etcorporation
 > I wish to have my paychecks or government benefits  deposited to my Netspend.")
 -
 ```
+```/add-linked-card.typescript
+add:"debit-card",
+  using:"card-number"('#5311063318189645'),
+    expiration-date:"december/2028",
+      cvc2:"100",
+card-holder:"chais thomas fitzwater",
+  id-number: "V050055012",
+-git commit -requestPush ```
